@@ -5,5 +5,5 @@ def my_each(collection)
     final_collection << collection[n]
     n = n + 1
   end
-  print final_collection
+  puts final_collection
 end
